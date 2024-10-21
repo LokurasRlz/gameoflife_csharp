@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\conwaysgameoflifetests\\gameoflifeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\conwaysgameoflifetests\\gameoflifeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\services\\gameoflifeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\services\\gameoflifeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\services\\igameoflifeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\services\\igameoflifeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\controllers\\gameoflifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\controllers\\gameoflifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\models\\gameoflifesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\models\\gameoflifesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|d:\\workspace\\csharp test\\conwaysgameoflifeapi\\conwaysgameoflifeapi\\conwaysgameoflifeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BD74408-62FA-4BDC-80DE-FB76BBA27803}|ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj|solutionrelative:conwaysgameoflifeapi\\conwaysgameoflifeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 311,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOfLifeSettings.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\GameOfLifeSettings.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Models\\GameOfLifeSettings.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\GameOfLifeSettings.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Models\\GameOfLifeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:25:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\appsettings.json",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\appsettings.json",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T12:24:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:21:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Program.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:16:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOfLifeServiceTests.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeTests\\GameOfLifeServiceTests.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\ConwaysGameOfLifeTests\\GameOfLifeServiceTests.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeTests\\GameOfLifeServiceTests.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\ConwaysGameOfLifeTests\\GameOfLifeServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:11:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOfLifeController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Controllers\\GameOfLifeController.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Controllers\\GameOfLifeController.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Controllers\\GameOfLifeController.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Controllers\\GameOfLifeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:09:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameOfLifeService.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Services\\IGameOfLifeService.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Services\\IGameOfLifeService.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Services\\IGameOfLifeService.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Services\\IGameOfLifeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:05:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOfLifeService.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Services\\GameOfLifeService.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Services\\GameOfLifeService.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Services\\GameOfLifeService.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Services\\GameOfLifeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:04:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Models\\GameResult.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\GameResult.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Models\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:04:17.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\Models\\Board.cs",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\Models\\Board.cs",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\Models\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:03:38.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConwaysGameOfLifeAPI",
+              "DocumentMoniker": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj",
+              "RelativeDocumentMoniker": "ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj",
+              "ToolTip": "D:\\WorkSpace\\csharp test\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj",
+              "RelativeToolTip": "ConwaysGameOfLifeAPI\\ConwaysGameOfLifeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T12:01:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

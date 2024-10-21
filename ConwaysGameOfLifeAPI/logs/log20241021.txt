@@ -1,0 +1,204 @@
+2024-10-21 09:31:33.340 -03:00 [INF] Now listening on: https://localhost:7191
+2024-10-21 09:31:33.369 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 09:31:33.442 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 09:31:33.443 -03:00 [INF] Hosting environment: Development
+2024-10-21 09:31:33.444 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 09:31:58.847 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 09:31:58.924 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 09:31:58.926 -03:00 [INF] Hosting environment: Development
+2024-10-21 09:31:58.927 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 09:31:59.389 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger - -
+2024-10-21 09:31:59.509 -03:00 [INF] HTTP GET /swagger responded 301 in 10.6943 ms
+2024-10-21 09:31:59.518 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger - - - 301 0 - 131.6793ms
+2024-10-21 09:31:59.522 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 09:31:59.566 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 40.5537 ms
+2024-10-21 09:31:59.570 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 47.7284ms
+2024-10-21 09:31:59.576 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui-bundle.js - -
+2024-10-21 09:31:59.576 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui.css - -
+2024-10-21 09:31:59.578 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui-standalone-preset.js - -
+2024-10-21 09:31:59.583 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 09:31:59.589 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 5.8527ms
+2024-10-21 09:31:59.605 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-10-21 09:31:59.606 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-10-21 09:31:59.609 -03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 30.4669 ms
+2024-10-21 09:31:59.609 -03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 30.0192 ms
+2024-10-21 09:31:59.611 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui.css - - - 200 144929 text/css 34.8700ms
+2024-10-21 09:31:59.611 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 32.9879ms
+2024-10-21 09:31:59.617 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-10-21 09:31:59.618 -03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 39.7084 ms
+2024-10-21 09:31:59.619 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 43.0527ms
+2024-10-21 09:31:59.656 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 09:31:59.735 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 78.9158ms
+2024-10-21 09:31:59.830 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 09:31:59.853 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/favicon-32x32.png - -
+2024-10-21 09:31:59.855 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-10-21 09:31:59.856 -03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 1.7799 ms
+2024-10-21 09:31:59.858 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/favicon-32x32.png - - - 200 628 image/png 4.8963ms
+2024-10-21 09:31:59.901 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 69.6760 ms
+2024-10-21 09:31:59.903 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.2057ms
+2024-10-21 10:02:10.722 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:02:10.801 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:02:10.803 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:02:10.804 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:02:11.095 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:02:11.204 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 43.8465 ms
+2024-10-21 10:02:11.210 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 116.6768ms
+2024-10-21 10:02:11.230 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:02:11.239 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 9.1849ms
+2024-10-21 10:02:11.262 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:02:11.283 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.1844ms
+2024-10-21 10:02:11.351 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:02:11.414 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 61.5991 ms
+2024-10-21 10:02:11.416 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 65.0150ms
+2024-10-21 10:03:19.842 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5285/api/GameOfLife/upload?rows=5&columns=5 application/json 122
+2024-10-21 10:03:19.861 -03:00 [INF] Executing endpoint 'ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.UploadBoard (ConwaysGameOfLifeAPI)'
+2024-10-21 10:03:19.887 -03:00 [INF] Route matched with {action = "UploadBoard", controller = "GameOfLife"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Guid] UploadBoard(Int32, Int32, Int32[][]) on controller ConwaysGameOfLifeAPI.Controllers.GameOfLifeController (ConwaysGameOfLifeAPI).
+2024-10-21 10:03:19.919 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Guid'.
+2024-10-21 10:03:19.926 -03:00 [INF] Executed action ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.UploadBoard (ConwaysGameOfLifeAPI) in 35.6392ms
+2024-10-21 10:03:19.927 -03:00 [INF] Executed endpoint 'ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.UploadBoard (ConwaysGameOfLifeAPI)'
+2024-10-21 10:03:19.928 -03:00 [INF] HTTP POST /api/GameOfLife/upload responded 200 in 83.7829 ms
+2024-10-21 10:03:19.929 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5285/api/GameOfLife/upload?rows=5&columns=5 application/json 122 - 200 - application/json;+charset=utf-8 86.7487ms
+2024-10-21 10:04:29.094 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/api/GameOfLife/706ce461-80d9-4093-a40f-2793b625441b/next - -
+2024-10-21 10:04:29.096 -03:00 [INF] Executing endpoint 'ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.GetNextState (ConwaysGameOfLifeAPI)'
+2024-10-21 10:04:29.100 -03:00 [INF] Route matched with {action = "GetNextState", controller = "GameOfLife"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[ConwaysGameOfLifeAPI.Models.GameResult] GetNextState(System.Guid) on controller ConwaysGameOfLifeAPI.Controllers.GameOfLifeController (ConwaysGameOfLifeAPI).
+2024-10-21 10:04:29.105 -03:00 [INF] Executed action ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.GetNextState (ConwaysGameOfLifeAPI) in 3.4075ms
+2024-10-21 10:04:29.106 -03:00 [INF] Executed endpoint 'ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.GetNextState (ConwaysGameOfLifeAPI)'
+2024-10-21 10:04:29.131 -03:00 [ERR] Something went wrong: System.IndexOutOfRangeException: Array does not have that many dimensions.
+   at System.Array.GetLength(Int32 dimension)
+   at ConwaysGameOfLifeAPI.Services.GameOfLifeService.CountLiveNeighbors(Int32[][] state, Int32 row, Int32 col) in D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI\Services\GameOfLifeService.cs:line 106
+   at ConwaysGameOfLifeAPI.Services.GameOfLifeService.ComputeNextState(Int32[][] currentState) in D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI\Services\GameOfLifeService.cs:line 85
+   at ConwaysGameOfLifeAPI.Services.GameOfLifeService.GetNextState(Guid boardId) in D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI\Services\GameOfLifeService.cs:line 27
+   at ConwaysGameOfLifeAPI.Controllers.GameOfLifeController.GetNextState(Guid boardId) in D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI\Controllers\GameOfLifeController.cs:line 28
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI\Middleware\ExceptionHandlingMiddleware.cs:line 19
+2024-10-21 10:04:29.134 -03:00 [ERR] HTTP GET /api/GameOfLife/706ce461-80d9-4093-a40f-2793b625441b/next responded 500 in 38.5452 ms
+2024-10-21 10:04:29.135 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/api/GameOfLife/706ce461-80d9-4093-a40f-2793b625441b/next - - - 500 - application/json 41.2361ms
+2024-10-21 10:04:58.899 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:04:58.903 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.5616 ms
+2024-10-21 10:04:58.904 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 5.4525ms
+2024-10-21 10:04:58.922 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:04:58.923 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 1.3123ms
+2024-10-21 10:04:58.946 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:04:58.957 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.1130ms
+2024-10-21 10:04:59.026 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:04:59.031 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 3.8543 ms
+2024-10-21 10:04:59.033 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.8985ms
+2024-10-21 10:06:22.436 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:06:22.545 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:06:22.546 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:06:22.547 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:06:22.549 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:06:22.668 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 53.9061 ms
+2024-10-21 10:06:22.680 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 132.3348ms
+2024-10-21 10:06:22.693 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:06:22.694 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:06:22.696 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 2.7472ms
+2024-10-21 10:06:22.723 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.6687ms
+2024-10-21 10:06:22.854 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:06:22.951 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 95.3683 ms
+2024-10-21 10:06:22.953 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 99.0814ms
+2024-10-21 10:09:43.846 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:09:43.937 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:09:43.939 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:09:43.940 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:09:44.090 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:09:44.221 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 62.8607 ms
+2024-10-21 10:09:44.241 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 150.9805ms
+2024-10-21 10:09:44.248 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:09:44.251 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 3.1764ms
+2024-10-21 10:09:44.251 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:09:44.294 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.8353ms
+2024-10-21 10:09:44.385 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:09:44.456 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 70.0720 ms
+2024-10-21 10:09:44.458 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.9430ms
+2024-10-21 10:10:17.877 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:10:17.954 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:10:17.956 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:10:17.957 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:10:18.164 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:10:18.260 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 41.6860 ms
+2024-10-21 10:10:18.269 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 105.5026ms
+2024-10-21 10:10:18.282 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:10:18.282 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:10:18.285 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 2.4968ms
+2024-10-21 10:10:18.301 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 18.9117ms
+2024-10-21 10:10:18.358 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:10:18.415 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 54.3806 ms
+2024-10-21 10:10:18.417 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 58.9015ms
+2024-10-21 10:10:25.298 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:10:25.378 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:10:25.379 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:10:25.380 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:10:25.601 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:10:25.692 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 40.5511 ms
+2024-10-21 10:10:25.698 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 98.1665ms
+2024-10-21 10:10:25.703 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:10:25.723 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.6873ms
+2024-10-21 10:10:25.731 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:10:25.733 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 1.8649ms
+2024-10-21 10:10:25.761 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:10:25.819 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 56.6935 ms
+2024-10-21 10:10:25.823 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 61.2218ms
+2024-10-21 10:11:01.038 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:11:01.133 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:11:01.134 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:11:01.135 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:11:01.293 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:11:01.397 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 44.3850 ms
+2024-10-21 10:11:01.404 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 113.2807ms
+2024-10-21 10:11:01.418 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:11:01.419 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:11:01.420 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 1.6531ms
+2024-10-21 10:11:01.441 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.7058ms
+2024-10-21 10:11:01.497 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:11:01.558 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 59.5713 ms
+2024-10-21 10:11:01.559 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 62.5075ms
+2024-10-21 10:11:06.216 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:11:06.221 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.8174 ms
+2024-10-21 10:11:06.223 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 6.7248ms
+2024-10-21 10:11:06.235 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:11:06.236 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:11:06.237 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 0.7672ms
+2024-10-21 10:11:06.245 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 9.9141ms
+2024-10-21 10:11:06.316 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:11:06.320 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.9988 ms
+2024-10-21 10:11:06.322 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.1957ms
+2024-10-21 10:11:12.930 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:11:12.933 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.3677 ms
+2024-10-21 10:11:12.934 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 3.8954ms
+2024-10-21 10:11:12.951 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:11:12.951 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:11:12.952 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 0.9719ms
+2024-10-21 10:11:12.955 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 4.4666ms
+2024-10-21 10:11:12.988 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:11:12.992 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.7270 ms
+2024-10-21 10:11:12.995 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.8461ms
+2024-10-21 10:12:20.936 -03:00 [INF] Now listening on: http://localhost:5285
+2024-10-21 10:12:21.047 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 10:12:21.048 -03:00 [INF] Hosting environment: Development
+2024-10-21 10:12:21.049 -03:00 [INF] Content root path: D:\WorkSpace\csharp test\ConwaysGameOfLifeAPI\ConwaysGameOfLifeAPI
+2024-10-21 10:12:21.168 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/index.html - -
+2024-10-21 10:12:21.310 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 56.5234 ms
+2024-10-21 10:12:21.333 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_vs/browserLink - -
+2024-10-21 10:12:21.339 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - -
+2024-10-21 10:12:21.347 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/index.html - - - 200 - text/html;charset=utf-8 182.5713ms
+2024-10-21 10:12:21.349 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_framework/aspnetcore-browser-refresh.js - - - 200 12372 application/javascript;+charset=utf-8 9.5879ms
+2024-10-21 10:12:21.371 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.5171ms
+2024-10-21 10:12:21.404 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - -
+2024-10-21 10:12:21.493 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 76.0458 ms
+2024-10-21 10:12:21.495 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.2133ms

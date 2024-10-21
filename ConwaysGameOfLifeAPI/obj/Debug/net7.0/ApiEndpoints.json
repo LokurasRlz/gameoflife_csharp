@@ -1,0 +1,147 @@
+[
+  {
+    "ContainingType": "ConwaysGameOfLifeAPI.Controllers.GameOfLifeController",
+    "Method": "GetFinalState",
+    "RelativePath": "api/GameOfLife/{boardId}/final/{maxGenerations}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "boardId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "maxGenerations",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConwaysGameOfLifeAPI.Models.GameResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConwaysGameOfLifeAPI.Controllers.GameOfLifeController",
+    "Method": "GetNextState",
+    "RelativePath": "api/GameOfLife/{boardId}/next",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "boardId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConwaysGameOfLifeAPI.Models.GameResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConwaysGameOfLifeAPI.Controllers.GameOfLifeController",
+    "Method": "GetNthState",
+    "RelativePath": "api/GameOfLife/{boardId}/nth/{n}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "boardId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "n",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConwaysGameOfLifeAPI.Models.GameResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConwaysGameOfLifeAPI.Controllers.GameOfLifeController",
+    "Method": "UploadBoard",
+    "RelativePath": "api/GameOfLife/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rows",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "columns",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "initialState",
+        "Type": "System.Int32[][]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConwaysGameOfLifeAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConwaysGameOfLifeAPI.WeatherForecast, ConwaysGameOfLifeAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
